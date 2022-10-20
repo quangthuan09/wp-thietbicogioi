@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark) {
+	body.pen_has_woocommerce #page .wc-block-pagination-page.wc-block-components-pagination__page {
+		color: #333;
+	}
+	body.pen_dark_mode.pen_has_woocommerce #page .wc-block-pagination-page.wc-block-components-pagination__page {
+		color: #fff;
+	}
+}
+body.pen_dark_mode.pen_has_woocommerce #page .wc-block-pagination-page.wc-block-components-pagination__page {
+	color: #fff;
+}

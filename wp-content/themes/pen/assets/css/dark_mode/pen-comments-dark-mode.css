@@ -1,0 +1,53 @@
+@media (prefers-color-scheme: dark) {
+	#comments {
+		background: rgba(255,255,255,0.95);
+		color: #333;
+	}
+	body.pen_drop_shadow #comments {
+		box-shadow: 0 5px 10px rgba(0,0,0,0.25), 0 0 5px rgba(0,0,0,0.25);
+	}
+	body.pen_drop_shadow #comments ol.comment-list > li {
+		box-shadow: 0 0 7px rgba(0,0,0,0.2);
+	}
+	#comments ol.comment-list > li {
+		background: rgba(170,170,170,0.1);
+	}
+	#comments ol.comment-list div.comment-author .photo {
+		background: #fff;
+	}
+	#comments ol.comment-list div.comment-author .photo {
+		box-shadow: 0 0 7px rgba(0,0,0,0.2);
+	}
+	#comments .no-comments,
+	#comments .comment-awaiting-moderation {
+		border: 1px solid rgba(170,170,170,0.3);
+	}
+	body.pen_dark_mode #comments {
+		background: rgba(0,0,0,0.95);
+		color: #eee;
+	}
+	body.pen_dark_mode #comments ol.comment-list > li {
+		background: #333;
+	}
+	body.pen_dark_mode #comments ol.comment-list div.comment-author .photo {
+		background: #000;
+	}
+	body.pen_dark_mode #comments .no-comments,
+	body.pen_dark_mode #comments .comment-awaiting-moderation {
+		border: 1px solid rgba(255,255,255,0.1);
+	}
+}
+body.pen_dark_mode #comments {
+	background: rgba(0,0,0,0.95);
+	color: #eee;
+}
+body.pen_dark_mode #comments ol.comment-list > li {
+	background: #333;
+}
+body.pen_dark_mode #comments ol.comment-list div.comment-author .photo {
+	background: #000;
+}
+body.pen_dark_mode #comments .no-comments,
+body.pen_dark_mode #comments .comment-awaiting-moderation {
+	border: 1px solid rgba(255,255,255,0.1);
+}

@@ -1,0 +1,59 @@
+@media (prefers-color-scheme: dark) {
+	#pen_bottom {
+		color: #fefefe;
+	}
+	#pen_bottom.pen_not_transparent {
+		background: #1f1f1f;
+	}
+	body.pen_drop_shadow #pen_bottom {
+		text-shadow: 1px 1px 2px rgba(0,0,0,0.75);
+	}
+	body.pen_drop_shadow #pen_bottom.pen_not_transparent {
+		box-shadow: 0 5px 10px rgba(0,0,0,0.25), 0 0 5px rgba(0,0,0,0.25);
+	}
+	#pen_bottom a {
+		color: #00a1f2;
+	}
+	#page #pen_bottom label {
+		color: #aaa;
+	}
+	#pen_bottom input[type="date"],
+	#pen_bottom input[type="datetime"],
+	#pen_bottom input[type="datetime-local"],
+	#pen_bottom input[type="email"],
+	#pen_bottom input[type="month"],
+	#pen_bottom input[type="number"],
+	#pen_bottom input[type="password"],
+	#pen_bottom input[type="search"],
+	#pen_bottom input[type="tel"],
+	#pen_bottom input[type="text"],
+	#pen_bottom input[type="time"],
+	#pen_bottom input[type="url"],
+	#pen_bottom input[type="week"],
+	#pen_bottom select,
+	#pen_bottom textarea {
+		background: linear-gradient(to bottom, #1f1f1f 0%, #2f2f2f 100%);
+		color: #ccc;
+	}
+	#pen_bottom option {
+		background: #1f1f1f;
+	}
+	#pen_bottom input::-webkit-input-placeholder,
+	#pen_bottom select::-webkit-input-placeholder,
+	#pen_bottom textarea::-webkit-input-placeholder {
+		color: #ccc;
+	}
+	#pen_bottom input::-moz-placeholder,
+	#pen_bottom select::-moz-placeholder,
+	#pen_bottom textarea::-moz-placeholder {
+		color: #ccc;
+	}
+	#pen_bottom input:-ms-input-placeholder,
+	#pen_bottom select:-ms-input-placeholder,
+	#pen_bottom textarea:-ms-input-placeholder {
+		color: #ccc;
+	}
+	#pen_bottom ul.menu:before {
+		background: linear-gradient(180deg, rgba(120,120,120,0) 0%, rgba(120,120,120,0.2) 50%, rgba(120,120,120,0) 100%);
+	}
+}

@@ -1,0 +1,9 @@
+#pen_top {
+	color: #fff;
+}
+body.pen_drop_shadow #pen_top {
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+#pen_top .widget h3 {
+	color: #fefefe;
+}

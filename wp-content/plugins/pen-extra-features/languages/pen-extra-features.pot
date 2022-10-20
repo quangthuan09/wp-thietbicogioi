@@ -1,0 +1,1214 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Pen\n"
+"POT-Creation-Date: "
+"2020-12-01 21:01+0100\n"
+"PO-Revision-Date: "
+"2018-09-12 15:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: "
+"htmlpie\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"X-Generator: Poedit "
+"2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;"
+"_n:1,2;_nx:1,2,4c;"
+"_n_noop:1,2;"
+"_nx_noop:1,2,3c;"
+"esc_attr__;esc_html__;"
+"esc_attr_e;esc_html_e;"
+"esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Language: en\n"
+"Plural-Forms: "
+"nplurals=2; plural=(n !"
+"= 1);\n"
+"X-Poedit-"
+"SourceCharset: UTF-8\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: backend/classes/class-pen-plugin-addons.php:40
+#: backend/classes/class-pen-plugin-addons.php:85
+msgid ""
+"Advanced Contact Form "
+"Plugin"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:41
+msgid ""
+"Do you need a contact "
+"form for your site?"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:43
+msgid ""
+"Ready-made CSS3 Styles "
+"Included"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:44
+msgid ""
+"Image, Riddle, and "
+"Hidden CAPTCHA"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:45
+msgid ""
+"Multilingual Forms & E-"
+"mails"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:46
+msgid "GDPR-compliant"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:47
+msgid "SMTP, CC, and BCC"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:48
+msgid "File Attachments"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:49
+msgid "E-mail Blacklist"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:50
+#: backend/classes/class-pen-plugin-addons.php:88
+msgid ""
+"Free Long-term Support"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:53
+#: backend/classes/class-pen-plugin-addons.php:92
+#: backend/classes/class-pen-plugin-addons.php:118
+msgid "VAT incl."
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:67
+msgid "Domain Theme"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:68
+msgid ""
+"Do you have some "
+"domain names for sale?"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:72
+#, php-format
+msgid ""
+"All the features of "
+"the %s theme"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:73
+#: backend/partials/common/pen-plugin-warnings.php:35
+#: backend/partials/common/pen-plugin-warnings.php:42
+#: backend/partials/common/pen-plugin-warnings.php:50
+#: shared/pen-plugin-toolbar.php:49
+msgid "Pen"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:77
+#, php-format
+msgid "%s Integration"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:82
+#, php-format
+msgid ""
+"%s Worth of Plugins!"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:86
+msgid ""
+"This Domain Is For "
+"Sale Plugin"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:87
+msgid ""
+"Unlimited Landing Pages"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:106
+msgid ""
+"WordPress Optimization"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:107
+msgid ""
+"Optimize your website "
+"for Google, mobile "
+"users, and more..."
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:109
+msgid ""
+"Search Engine "
+"Optimization"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:110
+msgid ""
+"Speed Optimization"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:112
+msgid "BCR Optimization"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:113
+msgid ""
+"User Experience "
+"Improvement"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:114
+msgid "PWA Setup"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-addons.php:117
+#, php-format
+msgid "Starting at %s"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-postmeta-import.php:57
+msgid ""
+"Please select an item."
+msgstr ""
+
+#: backend/classes/class-pen-plugin-postmeta-import.php:61
+#: backend/partials/addons/pen-plugin-addons-page.php:201
+#: backend/partials/addons/pen-plugin-addons-page.php:230
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:46
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:90
+#: backend/partials/style/pen-plugin-style-page.php:104
+#, php-format
+msgid "%s:"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-postmeta-import.php:62
+#: shared/pen-plugin-toolbar.php:128
+#: shared/pen-plugin-toolbar.php:667
+msgid "Search"
+msgstr ""
+
+#: backend/classes/class-pen-plugin-postmeta-import.php:90
+msgid ""
+"The selected content "
+"does not have a custom "
+"configuration; It is "
+"currently using the "
+"default configuration "
+"as set in the "
+"Customize section."
+msgstr ""
+
+#: backend/classes/class-pen-plugin-postmeta-import.php:106
+msgid ""
+"Something went wrong, "
+"please try again."
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page-title.php:27
+#: backend/partials/common/pen-plugin-footer.php:43
+#: backend/partials/export/pen-plugin-export-page-title.php:27
+#: backend/partials/import/pen-plugin-import-page-title.php:27
+#: backend/partials/layout/pen-plugin-layout-page-title.php:27
+#: backend/partials/overview/pen-plugin-overview-page-title.php:27
+#: backend/partials/style/pen-plugin-style-page-title.php:27
+#: pen-extra-features.php:92
+#: pen-extra-features.php:93
+#: pen-extra-features.php:104
+#: pen-extra-features.php:120
+#: pen-extra-features.php:136
+#: pen-extra-features.php:153
+#: pen-extra-features.php:170
+#: pen-extra-features.php:196
+#: shared/pen-plugin-toolbar.php:59
+msgid "Pen Theme"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page-title.php:29
+#: pen-extra-features.php:195
+#: pen-extra-features.php:198
+#: shared/pen-plugin-toolbar.php:1509
+msgid "Addons"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page-title.php:35
+#: backend/partials/export/pen-plugin-export-page-title.php:35
+#: backend/partials/import/pen-plugin-import-page-title.php:35
+#: backend/partials/layout/pen-plugin-layout-page-title.php:43
+#: backend/partials/overview/pen-plugin-overview-page-title.php:44
+#: backend/partials/style/pen-plugin-style-page-title.php:36
+msgid "Back"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:54
+msgid ""
+"Dear users, we have "
+"spent a lot of time "
+"building this theme, "
+"so please show us your "
+"appreciation and help "
+"us continue the "
+"development by buying "
+"the theme or maybe our "
+"beautiful Advanced "
+"Contact Form plugin, "
+"it's very awesome."
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:55
+msgid ""
+"We also provide "
+"WordPress optimization "
+"and maintenance "
+"services."
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:56
+msgid ""
+"Thank you in advance!"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:121
+msgid "Installed"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:126
+#, php-format
+msgid " (%s)"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:127
+msgid "Deactivated"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:144
+msgid "New!"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:152
+msgid "Recommended"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:161
+msgid "Special Offer!"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:202
+msgid "Price"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:231
+msgid "Special Price"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:259
+#, php-format
+msgid ""
+"This offer ends on %s "
+"(no extension)"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:275
+#: backend/partials/addons/pen-plugin-addons-page.php:285
+msgid ""
+"Opens a new window"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:277
+msgid "Live Preview"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:287
+msgid "Order Now"
+msgstr ""
+
+#: backend/partials/addons/pen-plugin-addons-page.php:306
+msgid ""
+"You are more than "
+"welcome to contact us "
+"if you have any "
+"questions regarding "
+"these offers, thanks."
+msgstr ""
+
+#: backend/partials/common/pen-plugin-footer.php:38
+#, php-format
+msgid ""
+"You are using the %1$s "
+"v%2$s by %3$s"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-footer.php:42
+#: backend/partials/common/pen-plugin-footer.php:50
+#: backend/partials/common/pen-plugin-footer.php:60
+#: backend/partials/common/pen-plugin-footer.php:70
+#: backend/partials/common/pen-plugin-footer.php:80
+msgid "External link"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-footer.php:61
+#: shared/pen-plugin-toolbar.php:1517
+msgid ""
+"Theme Documentation"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-footer.php:71
+msgid "Feature Requests"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-footer.php:81
+#: shared/pen-plugin-toolbar.php:1525
+msgid "Help & Support"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-preview-import.php:39
+msgid "Setting"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-preview-import.php:44
+msgid "Value"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-preview-import.php:64
+msgid "Yes"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-preview-import.php:64
+msgid "No"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-preview-import.php:68
+#: backend/partials/overview/pen-plugin-overview-page.php:82
+msgid "N/A"
+msgstr ""
+
+#: backend/partials/common/pen-plugin-warnings.php:33
+#, php-format
+msgid ""
+"You need to <a href="
+"\"%1$s\">activate the "
+"%2$s theme</a>."
+msgstr ""
+
+#: backend/partials/common/pen-plugin-warnings.php:40
+#, php-format
+msgid ""
+"You need to <a href="
+"\"%1$s\">install the "
+"%2$s theme</a>."
+msgstr ""
+
+#: backend/partials/common/pen-plugin-warnings.php:48
+#, php-format
+msgid ""
+"You need to <a href="
+"\"%1$s\">update the "
+"%2$s theme</a>."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page-title.php:29
+#: pen-extra-features.php:152
+#: pen-extra-features.php:155
+#: shared/pen-plugin-toolbar.php:1493
+msgid ""
+"Customization Export"
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:51
+msgid ""
+"There is nothing to "
+"export."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:59
+msgid ""
+"Here are the "
+"customization for the "
+"\"Pen\" theme that you "
+"have made through the "
+"\"Pen\" sections of "
+"the Customize "
+"interface (Appearance "
+"&rarr; Customize)."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:63
+msgid ""
+"You can copy this code "
+"and import it to "
+"another website with "
+"the same theme in "
+"order to have your "
+"customization applied "
+"to that website too, "
+"or you can save this "
+"code as a text file (."
+"txt) as a backup."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:75
+msgid ""
+"Please note, the "
+"following code does "
+"not cover all your "
+"customization in the "
+"theme customizer such "
+"as \"Additional CSS\" "
+"or any other thing "
+"from the WordPress "
+"core or plugins. The "
+"following code only "
+"covers those "
+"customization which "
+"belong to the \"Pen\" "
+"theme. If you need to "
+"create backups we "
+"recommend you to use a "
+"backup plugin to "
+"create complete site "
+"backups."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:81
+msgid ""
+"If you have any "
+"unsaved customization "
+"right now in the "
+"Customize section you "
+"should save them first "
+"and then refresh this "
+"page."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:93
+#: backend/partials/export/pen-plugin-export-page.php:131
+#: backend/partials/style/pen-plugin-style-page.php:71
+#: backend/partials/style/pen-plugin-style-page.php:175
+msgid "Preview"
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:98
+msgid ""
+"Here is a summary of "
+"the above data."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:112
+msgid ""
+"Cannot retrieve the "
+"theme configuration."
+msgstr ""
+
+#: backend/partials/export/pen-plugin-export-page.php:121
+#: backend/partials/export/pen-plugin-export-page.php:136
+msgid "Download"
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page-title.php:29
+#: pen-extra-features.php:169
+#: pen-extra-features.php:172
+#: shared/pen-plugin-toolbar.php:1501
+msgid ""
+"Customization Import"
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:62
+msgid ""
+"Import was attempted; "
+"please check your "
+"website and make sure "
+"that everything is "
+"fine."
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:72
+msgid ""
+"Import was not "
+"successful; you can "
+"contact support about "
+"this."
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:85
+msgid ""
+"Import was "
+"unsuccessful."
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:98
+msgid ""
+"Enter your theme "
+"customization code "
+"below."
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:108
+msgid "Preview & Import"
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:118
+msgid ""
+"Preview before import"
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:123
+msgid ""
+"Please make sure "
+"everything is correct "
+"and then click the "
+"\"Import\" button "
+"below."
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:139
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:69
+msgid "Import"
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:143
+msgid "Cancel"
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:149
+msgid ""
+"This action is "
+"irreversible!"
+msgstr ""
+
+#: backend/partials/import/pen-plugin-import-page.php:159
+msgid ""
+"The input does not "
+"contain a valid backup "
+"of the theme "
+"configuration."
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page-title.php:29
+#: pen-extra-features.php:119
+#: pen-extra-features.php:122
+#: shared/pen-plugin-toolbar.php:772
+#: shared/pen-plugin-toolbar.php:1477
+msgid "Layout"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page-title.php:36
+msgid "More Options"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:71
+msgid "Settings saved."
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:99
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:191
+#: shared/pen-plugin-toolbar.php:143
+#: shared/pen-plugin-toolbar.php:742
+msgid "List Views"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:107
+msgid "jQuery Masonry"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:108
+msgid "Tiles"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:109
+msgid "Plain List"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:130
+msgid "Alignment"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:138
+msgid "Left"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:139
+msgid "Center"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:140
+msgid "Right"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:161
+msgid "Width"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:169
+msgid "Boxed"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:170
+msgid "Narrow"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:171
+msgid "Standard"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:172
+msgid "Wide"
+msgstr ""
+
+#: backend/partials/layout/pen-plugin-layout-page.php:198
+msgid ""
+"Save Configuration"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page-title.php:29
+#: pen-extra-features.php:135
+msgid ""
+"Content Customization "
+"Overview"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page-title.php:36
+msgid ""
+"Pen Theme Settings"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page-title.php:37
+msgid ""
+"Default Configuration"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:89
+msgid "Edit"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:105
+msgid ""
+"The following contents "
+"have custom "
+"configurations. You "
+"can click the Edit "
+"button to check their "
+"current configuration "
+"- It is under the "
+"\"Pen Options\" "
+"section on the Post "
+"Edit screen."
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:109
+msgid ""
+"You can also copy "
+"those custom "
+"configurations from "
+"one post to another by "
+"clicking the \"Import"
+"\" button there."
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:117
+msgid "ID"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:122
+#: shared/pen-plugin-toolbar.php:1301
+msgid "Title"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:127
+msgid ""
+"Customization Name"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:132
+msgid "Actions"
+msgstr ""
+
+#: backend/partials/overview/pen-plugin-overview-page.php:149
+msgid ""
+"All your contents "
+"appear to be using the "
+"default configuration."
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:35
+msgid ""
+"This section is a part "
+"of the Pen plugin."
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:37
+#: pen-extra-features.php:92
+#: pen-extra-features.php:93
+msgid "Pen Plugin"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:47
+msgid ""
+"Administrative Title"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:53
+msgid "e.g. Wide Layout"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:56
+msgid ""
+"You can set a distinct "
+"title for this set of "
+"customization so you "
+"can easily find it "
+"everywhere."
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:64
+msgid "Overview"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:67
+msgid ""
+"You can import options "
+"from your other posts "
+"or pages."
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:75
+msgid ""
+"You can import your "
+"customization from "
+"your other posts or "
+"pages to the current "
+"one."
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:81
+msgid "Close"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:91
+msgid "Select the source"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-import.php:99
+msgid "Select a content"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:74
+#, php-format
+msgid "Sidebar %s"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:77
+msgid "Hidden"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:103
+msgid "Full Content View"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:117
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:205
+msgid "Dark"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:119
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:207
+msgid "Light"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:135
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:166
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:226
+msgid "Apply"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:245
+msgid "Apply Selected"
+msgstr ""
+
+#: backend/partials/postmeta/pen-plugin-postmeta-overview.php:250
+msgid "Select All"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page-title.php:29
+#: pen-extra-features.php:106
+msgid "Style"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:47
+msgid "Color Schemes"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:53
+msgid ""
+"You can set different "
+"color schemes for "
+"different posts by "
+"changing the \"Color "
+"Scheme\" setting in "
+"the \"Pen Options\" "
+"section under the "
+"content editor."
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:62
+#: backend/partials/style/pen-plugin-style-page.php:166
+msgid "View"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:105
+msgid "Current Style"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:117
+#: backend/partials/style/pen-plugin-style-page.php:204
+#, php-format
+msgid "Style %d"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:133
+#: backend/partials/style/pen-plugin-style-page.php:218
+#: shared/pen-plugin-toolbar.php:67
+msgid "Customize"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:151
+msgid "Font Groups"
+msgstr ""
+
+#: backend/partials/style/pen-plugin-style-page.php:157
+msgid ""
+"These are pre-defined "
+"font pairs, you can "
+"find more font choices "
+"in the Customize "
+"section."
+msgstr ""
+
+#: pen-extra-features.php:103
+#: shared/pen-plugin-toolbar.php:1469
+msgid "Styles"
+msgstr ""
+
+#: pen-extra-features.php:138
+msgid ""
+"Content Customization"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:48
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:75
+msgid "Everything"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:83
+msgid "Animation"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:98
+#: shared/pen-plugin-toolbar.php:244
+#: shared/pen-plugin-toolbar.php:493
+#: shared/pen-plugin-toolbar.php:622
+#: shared/pen-plugin-toolbar.php:1238
+msgid "Header"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:113
+#: shared/pen-plugin-toolbar.php:514
+#: shared/pen-plugin-toolbar.php:697
+msgid "Navigation"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:158
+#: shared/pen-plugin-toolbar.php:757
+msgid ""
+"Full Content Views"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:173
+#: shared/pen-plugin-toolbar.php:535
+msgid "Widget Areas"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:188
+#: shared/pen-plugin-toolbar.php:1452
+msgid "Colors"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:207
+#: shared/pen-plugin-toolbar.php:456
+#, php-format
+msgid "Current Set (%d)"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:225
+#: shared/pen-plugin-toolbar.php:474
+#: shared/pen-plugin-toolbar.php:637
+#: shared/pen-plugin-toolbar.php:727
+#: shared/pen-plugin-toolbar.php:1437
+msgid "General"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:243
+#: shared/pen-plugin-toolbar.php:264
+#: shared/pen-plugin-toolbar.php:285
+#: shared/pen-plugin-toolbar.php:306
+#: shared/pen-plugin-toolbar.php:327
+#: shared/pen-plugin-toolbar.php:349
+#: shared/pen-plugin-toolbar.php:370
+#, php-format
+msgid "%s Colors"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:265
+msgid "Navigation Menu"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:286
+#: shared/pen-plugin-toolbar.php:1280
+msgctxt "noun"
+msgid "Search Bar"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:307
+msgid "Content Area"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:329
+msgctxt "noun"
+msgid "List View"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:350
+#: shared/pen-plugin-toolbar.php:1322
+msgid "Bottom"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:371
+#: shared/pen-plugin-toolbar.php:556
+#: shared/pen-plugin-toolbar.php:832
+#: shared/pen-plugin-toolbar.php:1343
+msgid "Footer"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:391
+#: shared/pen-plugin-toolbar.php:850
+#, php-format
+msgid "\"%s\" Screen"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:392
+#: shared/pen-plugin-toolbar.php:851
+msgid "Loading..."
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:415
+#, php-format
+msgid "Preview Style %d"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:437
+msgid "Typography"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:492
+#: shared/pen-plugin-toolbar.php:513
+#: shared/pen-plugin-toolbar.php:534
+#: shared/pen-plugin-toolbar.php:555
+#: shared/pen-plugin-toolbar.php:576
+#, php-format
+msgid "%s Typography"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:577
+msgid "Contact Links"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:600
+#, php-format
+msgid ""
+"Preview Font Group %d"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:652
+#: shared/pen-plugin-toolbar.php:928
+msgid "Phone"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:682
+msgid ""
+"Registration Button"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:712
+msgid "Content"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:787
+msgid "Front Page"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:802
+msgid ""
+"Front Page Content"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:817
+msgid ""
+"Front Page Sidebars"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:868
+msgid ""
+"Contact Information"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:883
+msgid "Facebook"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:898
+msgid "Twitter"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:913
+msgid "Instagram"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:943
+msgid "WhatsApp"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:958
+msgid "E-mail"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:973
+msgid "LinkedIn"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:988
+msgid "Pinterest"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1003
+msgid "Bitbucket"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1018
+msgid "Flickr"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1033
+msgid "GitHub"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1048
+msgid "Slack"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1063
+msgid "Skype"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1078
+msgid "Telegram"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1093
+msgid "MeWe"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1108
+msgid "VK"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1123
+msgid "Shop"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1138
+msgid "Vimeo"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1153
+msgid "YouTube"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1168
+msgid "RSS Feed"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1183
+msgid "Background Images"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1198
+msgid ""
+"Site Background Color"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1216
+#: shared/pen-plugin-toolbar.php:1237
+#: shared/pen-plugin-toolbar.php:1258
+#: shared/pen-plugin-toolbar.php:1279
+#: shared/pen-plugin-toolbar.php:1300
+#: shared/pen-plugin-toolbar.php:1321
+#: shared/pen-plugin-toolbar.php:1342
+#, php-format
+msgid ""
+"%s Background Image"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1217
+msgid "Site"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1259
+msgctxt "noun"
+msgid "Navigation"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1360
+msgid "Site Identity"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1375
+msgid "Menus"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1390
+msgid "Shortcuts"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1405
+msgid "Widgets"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1422
+msgid "WooCommerce"
+msgstr ""
+
+#: shared/pen-plugin-toolbar.php:1485
+msgid ""
+"Customization Overview"
+msgstr ""

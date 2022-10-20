@@ -1,0 +1,26 @@
+h1#hp_title.pen_plugin_export:before {
+	content: '\f342';
+}
+#hp_admin .pen_customization_export_code {
+	background: rgba(0,0,0,0.75);
+	border: 1px solid #000;
+	border-radius: 3px;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.5) inset;
+	color: #eee;
+	padding: 5px;
+	font-family: "Courier New";
+	font-weight: bold;
+	font-size: 0.857em;
+	text-shadow: 1px 1px 1px #000;
+	-ms-word-break: break-all;
+	word-break: break-all;
+	word-break: break-word; /* Webkit */
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+	max-height: 200px;
+	max-width: 100%;
+	overflow: scroll;
+	overflow-x: hidden;
+	position: relative;
+}

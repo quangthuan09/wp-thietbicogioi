@@ -1,0 +1,31 @@
+#customize-info div.accordion-section-title .button.pen_rate {
+	font-weight: bold;
+	max-width: 100%;
+	overflow: hidden;
+	position: relative;
+}
+#customize-info div.accordion-section-title .button.pen_rate:before {
+	color: #f00;
+	content: '\f487';
+	font-family: 'dashicons';
+	font-size: 1.75em;
+	font-weight: normal;
+	position: absolute;
+	right: 4px;
+	top: 50%;
+	transform: translateY(-50%);
+}
+#customize-theme-controls h3 span.pen_only {
+	background: #7f7f7f;
+	border-radius: 300px;
+	color: #fff;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.75) inset;
+	cursor: help;
+	display: inline-block;
+	font-size: smaller;
+	font-weight: bold;
+	margin: 0 5px 0 0;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}

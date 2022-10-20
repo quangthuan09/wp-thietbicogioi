@@ -1,0 +1,124 @@
+body.no-js #pen_meta_box #pen_meta_tools { /* On WP backend <body> gets the .js class, not the <html> element. */
+	display: none;
+}
+#pen_meta_box #pen_meta_tools {
+	border: 1px solid #fff;
+	box-shadow: 0 0 3px rgba(0,0,0,0.1), 0 2px 5px rgba(0,0,0,0.1);
+	border-radius: 5px;
+	margin: 0 0 1rem;
+	overflow: hidden;
+	padding: 1rem;
+	position: relative;
+}
+#pen_meta_box #pen_meta_tools,
+#pen_meta_box #pen_meta_tools .pen_meta_tool.pen_expanded {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	float: left;
+	width: 100%;
+}
+#pen_meta_box #pen_meta_tools fieldset legend {
+	background: rgba(0,0,0,0.1);
+	border-radius: 0 0 0 10px;
+	color: rgba(0,0,0,0.5);
+	cursor: default;
+	font-weight: bold;
+	padding: 2px 10px;
+	position: absolute;
+	right: 0;
+	text-shadow: 1px 1px 0 rgba(255,255,255,0.5);
+	top: 0;
+}
+#pen_meta_box #pen_meta_tools fieldset label[for="pen_meta_name"] {
+	vertical-align: text-top;
+}
+#pen_meta_box #pen_meta_tools fieldset #pen_meta_name,
+#pen_meta_box #pen_meta_tools .pen_postmeta_search {
+	border-radius: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#pen_meta_box #pen_meta_tools > .button {
+	float: left;
+	margin: 0 0.25rem 0 0;
+}
+#pen_meta_box #pen_meta_tools .pen_meta_tool.pen_expanded {
+	background: #f7f7f7;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	display: block;
+	margin: 1rem 0 0;
+	padding: 1rem;
+	position: relative;
+}
+#pen_meta_box #pen_meta_tools .pen_meta_tool .pen_meta_tool_close {
+	position: absolute;
+	right: 1em;
+	top: 1em;
+}
+#pen_meta_box #pen_meta_tools .pen_meta_tool .pen_meta_tool_close:before {
+	content: "\f158";
+	font-family: 'dashicons';
+	font-weight: normal;
+	vertical-align: bottom;
+}
+#pen_meta_box #pen_meta_tools table {
+	background: rgba(255,255,255,0.75);
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+	margin: 1rem 0;
+	min-width: 400px;
+	text-transform: capitalize;
+}
+#pen_meta_box #pen_meta_tools table tr {
+	cursor: pointer;
+}
+#pen_meta_box #pen_meta_tools table th,
+#pen_meta_box #pen_meta_tools table td {
+	border: 1px solid #fff;
+}
+#pen_meta_box #pen_meta_tools table th {
+	background: #ddd;
+	padding: 1rem;
+	text-align: left;
+}
+#pen_meta_box #pen_meta_tools table td {
+	padding: 0.5rem 1rem;
+}
+#pen_meta_box #pen_meta_tools table tr.pen_active td {
+	background: #eaeaea;
+}
+#pen_meta_box #pen_meta_import > p:first-child {
+	margin-top: 0;
+}
+#pen_meta_box #pen_meta_tools .pen_meta_tool_close:before,
+#pen_meta_box #pen_meta_tools #pen_meta_tool_overview:before,
+#pen_meta_box #pen_meta_tools #pen_meta_tool_import:before {
+	content: "\f158";
+	font-family: 'dashicons';
+	font-weight: normal;
+	vertical-align: bottom;
+}
+#pen_meta_box #pen_meta_tools > .button,
+#pen_meta_box #pen_meta_tools #pen_meta_tool_overview:before,
+#pen_meta_box #pen_meta_tools #pen_meta_tool_import:before {
+	margin: 0 0.25rem 0 0;
+}
+#pen_meta_box #pen_meta_tools #pen_meta_tool_import:before {
+	content: "\f111";
+}
+#pen_meta_box #pen_meta_tools #pen_meta_tool_overview:before {
+	content: "\f504";
+}
+#pen_meta_box #pen_meta_tools input.difs_search {
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	font-size: 0.857em;
+	font-weight: bold;
+	transition: opacity .4s;
+	width: 250px;
+}

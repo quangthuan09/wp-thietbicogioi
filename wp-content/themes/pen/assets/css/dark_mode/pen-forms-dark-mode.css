@@ -1,0 +1,85 @@
+@media (prefers-color-scheme: dark) {
+	#page label {
+		color: rgba(120,120,120,0.9);
+	}
+	body.pen_dark_mode #page label {
+		color: rgba(255,255,255,0.75);
+	}
+	#page input[type="date"],
+	#page input[type="datetime"],
+	#page input[type="datetime-local"],
+	#page input[type="email"],
+	#page input[type="month"],
+	#page input[type="number"],
+	#page input[type="password"],
+	#page input[type="search"],
+	#page input[type="tel"],
+	#page input[type="text"],
+	#page input[type="time"],
+	#page input[type="url"],
+	#page input[type="week"],
+	#page select,
+	#page textarea {
+		background: rgba(255,255,255,0.75);
+		border: 1px solid rgba(0,0,0,0.25) !important;
+		color: #333;
+	}
+	body.pen_dark_mode #page input[type="date"],
+	body.pen_dark_mode #page input[type="datetime"],
+	body.pen_dark_mode #page input[type="datetime-local"],
+	body.pen_dark_mode #page input[type="email"],
+	body.pen_dark_mode #page input[type="month"],
+	body.pen_dark_mode #page input[type="number"],
+	body.pen_dark_mode #page input[type="password"],
+	body.pen_dark_mode #page input[type="search"],
+	body.pen_dark_mode #page input[type="tel"],
+	body.pen_dark_mode #page input[type="text"],
+	body.pen_dark_mode #page input[type="time"],
+	body.pen_dark_mode #page input[type="url"],
+	body.pen_dark_mode #page input[type="week"],
+	body.pen_dark_mode #page select,
+	body.pen_dark_mode #page textarea {
+		background: rgba(0,0,0,0.75);
+		border: 1px solid rgba(255,255,255,0.1) !important;
+		color: #eee;
+	}
+	body.pen_drop_shadow #main input[type="date"],
+	body.pen_drop_shadow #main input[type="datetime"],
+	body.pen_drop_shadow #main input[type="datetime-local"],
+	body.pen_drop_shadow #main input[type="email"],
+	body.pen_drop_shadow #main input[type="month"],
+	body.pen_drop_shadow #main input[type="number"],
+	body.pen_drop_shadow #main input[type="password"],
+	body.pen_drop_shadow #main input[type="search"],
+	body.pen_drop_shadow #main input[type="tel"],
+	body.pen_drop_shadow #main input[type="text"],
+	body.pen_drop_shadow #main input[type="time"],
+	body.pen_drop_shadow #main input[type="url"],
+	body.pen_drop_shadow #main input[type="week"],
+	body.pen_drop_shadow #main select,
+	body.pen_drop_shadow #main textarea {
+		box-shadow: 1px 1px 5px rgba(0,0,0,0.2) inset;
+	}
+}
+body.pen_dark_mode #page label {
+	color: rgba(255,255,255,0.75);
+}
+body.pen_dark_mode #page input[type="date"],
+body.pen_dark_mode #page input[type="datetime"],
+body.pen_dark_mode #page input[type="datetime-local"],
+body.pen_dark_mode #page input[type="email"],
+body.pen_dark_mode #page input[type="month"],
+body.pen_dark_mode #page input[type="number"],
+body.pen_dark_mode #page input[type="password"],
+body.pen_dark_mode #page input[type="search"],
+body.pen_dark_mode #page input[type="tel"],
+body.pen_dark_mode #page input[type="text"],
+body.pen_dark_mode #page input[type="time"],
+body.pen_dark_mode #page input[type="url"],
+body.pen_dark_mode #page input[type="week"],
+body.pen_dark_mode #page select,
+body.pen_dark_mode #page textarea {
+	background: rgba(0,0,0,0.75);
+	border: 1px solid rgba(255,255,255,0.1) !important;
+	color: #eee;
+}

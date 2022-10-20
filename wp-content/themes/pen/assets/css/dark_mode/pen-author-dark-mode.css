@@ -1,0 +1,20 @@
+@media (prefers-color-schame: dark) {
+	#primary .pen_author_profile:before {
+		background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(0,0,0,0.5) 50%, rgba(255,255,255,0) 100%);
+	}
+	#primary .pen_author_profile .pen_author_avatar {
+		background: #fff;
+	}
+	body.pen_dark_mode #primary .pen_author_profile:before {
+		background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(0,0,0,0.5) 50%, rgba(255,255,255,0) 100%);
+	}
+	body.pen_dark_mode #primary .pen_author_profile .pen_author_avatar {
+		background: #000;
+	}
+}
+body.pen_dark_mode #primary .pen_author_profile:before {
+	background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(0,0,0,0.5) 50%, rgba(255,255,255,0) 100%);
+}
+body.pen_dark_mode #primary .pen_author_profile .pen_author_avatar {
+	background: #000;
+}

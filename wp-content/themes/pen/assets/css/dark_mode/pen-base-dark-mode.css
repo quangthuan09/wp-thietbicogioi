@@ -1,0 +1,58 @@
+@media (prefers-color-scheme: dark) {
+	body,
+	button,
+	input,
+	select,
+	optgroup,
+	textarea {
+		color: #eee;
+	}
+	pre {
+		background: #eee;
+	}
+	hr {
+		background-color: #ccc;
+	}
+	.screen-reader-text:focus {
+		background-color: #f1f1f1;
+		color: #21759b;
+	}
+	body.pen_dark_mode,
+	body.pen_dark_mode button,
+	body.pen_dark_mode input,
+	body.pen_dark_mode select,
+	body.pen_dark_mode optgroup,
+	body.pen_dark_mode textarea {
+		color: #eee;
+	}
+	body.pen_dark_mode pre {
+		background: #555;
+		color: #fff;
+	}
+	body.pen_dark_mode hr {
+		background-color: #eee;
+	}
+	body.pen_dark_mode .screen-reader-text:focus {
+		background-color: #333;
+		color: #00b0ff;
+	}
+}
+body.pen_dark_mode,
+body.pen_dark_mode button,
+body.pen_dark_mode input,
+body.pen_dark_mode select,
+body.pen_dark_mode optgroup,
+body.pen_dark_mode textarea {
+	color: #eee;
+}
+body.pen_dark_mode pre {
+	background: #555;
+	color: #fff;
+}
+body.pen_dark_mode hr {
+	background-color: #eee;
+}
+body.pen_dark_mode .screen-reader-text:focus {
+	background-color: #333;
+	color: #00b0ff;
+}

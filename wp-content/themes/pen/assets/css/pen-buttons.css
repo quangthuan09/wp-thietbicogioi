@@ -1,0 +1,151 @@
+#primary button[type="reset"],
+#primary button[type="submit"],
+#primary input[type="button"],
+#primary input[type="reset"],
+#primary input[type="submit"] {
+	font-size: 1em !important;
+}
+#page .pen_button,
+#primary button[type="reset"],
+#primary button[type="submit"],
+#primary input[type="button"],
+#primary input[type="reset"],
+#primary input[type="submit"],
+#primary .comments-link a,
+#primary .comment-list a.comment-edit-link,
+#primary .comment-list .reply a,
+#primary .pen_content_footer .tags-links a,
+#cancel-comment-reply-link,
+#content .page-links a,
+#content .comment-navigation a,
+#content .posts-navigation a,
+#content .post-navigation a,
+#content .wp-pagenavi a,
+#content .wp-pagenavi span,
+body.pen_has_woocommerce #page .product .button,
+body.pen_has_woocommerce #page .wp-block-button__link,
+body.pen_has_woocommerce #page .wc-backward,
+body.pen_has_woocommerce #page .wc-forward,
+body.pen_has_woocommerce #page .woocommerce-pagination span.page-numbers.current,
+body.pen_has_woocommerce #page .woocommerce-pagination a.page-numbers {
+	background: #0090ff;
+	background: linear-gradient(0deg, #135abf 0%, #0090ff 100%);
+	border: 0 none !important;
+	color: #fff !important;
+	cursor: pointer;
+	float: left;
+	font-family: 'Roboto', Arial, Helvetica, Sans-serif;
+	font-weight: bold;
+	padding: 0.75rem 2rem !important;
+	text-align: center;
+	text-decoration: none !important;
+	white-space: nowrap;
+}
+#primary .comments-link a {
+	padding-left: 1rem !important;
+	padding-right: 1rem !important;
+}
+#respond .form-submit input.submit {
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
+}
+#page .pen_button,
+#primary .comments-link a,
+#primary .comment-list a.comment-edit-link,
+#primary .comment-list .reply a,
+#primary .pen_content_footer .tags-links a,
+#cancel-comment-reply-link,
+#content .page-links a,
+#content .comment-navigation a,
+#content .posts-navigation a,
+#content .post-navigation a,
+#content .wp-pagenavi a,
+#content .wp-pagenavi span,
+body.pen_has_woocommerce #page .product .button,
+body.pen_has_woocommerce #page .wp-block-button__link,
+body.pen_has_woocommerce #page .wc-backward,
+body.pen_has_woocommerce #page .wc-forward {
+	margin: 0 0 1rem;
+	width: 100%;
+}
+body.pen_round_corners #page .pen_button,
+body.pen_round_corners #primary button[type="reset"],
+body.pen_round_corners #primary button[type="submit"],
+body.pen_round_corners #primary input[type="button"],
+body.pen_round_corners #primary input[type="reset"],
+body.pen_round_corners #primary input[type="submit"],
+body.pen_round_corners #primary .comments-link a,
+body.pen_round_corners #primary .comment-list a.comment-edit-link,
+body.pen_round_corners #primary .comment-list .reply a,
+body.pen_round_corners #primary .pen_content_footer .tags-links a,
+body.pen_round_corners #cancel-comment-reply-link,
+body.pen_round_corners #content .page-links a,
+body.pen_round_corners #content .comment-navigation a,
+body.pen_round_corners #content .posts-navigation a,
+body.pen_round_corners #content .post-navigation a,
+body.pen_round_corners #content .wp-pagenavi a,
+body.pen_round_corners #content .wp-pagenavi span,
+body.pen_round_corners.pen_has_woocommerce #page .product .button,
+body.pen_round_corners.pen_has_woocommerce #page .wp-block-button__link,
+body.pen_round_corners.pen_has_woocommerce #page .wc-backward,
+body.pen_round_corners.pen_has_woocommerce #page .wc-forward,
+body.pen_round_corners.pen_has_woocommerce #page .woocommerce-pagination span.page-numbers.current,
+body.pen_round_corners.pen_has_woocommerce #page .woocommerce-pagination a.page-numbers {
+	border-radius: 50px !important;
+}
+#page .pen_button:active,
+#page .pen_button.pen_active,
+#primary button[type="reset"]:active,
+#primary button[type="submit"]:active,
+#primary input[type="button"]:active,
+#primary input[type="reset"]:active,
+#primary input[type="submit"]:active,
+#primary .comments-link a:active,
+#primary .comment-list a.comment-edit-link:active,
+#primary .comment-list .reply a:active,
+#primary .pen_content_footer .tags-links a:active,
+#cancel-comment-reply-link:active,
+#content .page-links a:active,
+#content .comment-navigation a:active,
+#content .posts-navigation a:active,
+#content .post-navigation a:active,
+#content .wp-pagenavi span,
+#content .wp-pagenavi .current,
+body.pen_has_woocommerce #page .product .button:active,
+body.pen_has_woocommerce #page .wp-block-button__link:active,
+body.pen_has_woocommerce #page .wc-backward:active,
+body.pen_has_woocommerce #page .wc-forward:active,
+body.pen_has_woocommerce #page .woocommerce-pagination a.page-numbers:active,
+body.pen_has_woocommerce #page .woocommerce-pagination span.page-numbers.current {
+	background: #135abf;
+	text-decoration: none;
+}
+#page .wp-block-button a {
+	margin-bottom: 1rem;
+	text-decoration: none !important;
+}
+@media only screen and (max-width:1024px) {
+	#page .pen_button,
+	#primary button[type="reset"],
+	#primary button[type="submit"],
+	#primary input[type="button"],
+	#primary input[type="reset"],
+	#primary input[type="submit"],
+	#primary .comments-link a,
+	#primary .comment-list a.comment-edit-link,
+	#primary .comment-list .reply a,
+	#primary .pen_content_footer .tags-links a,
+	#cancel-comment-reply-link,
+	#content .page-links a,
+	#content .comment-navigation a,
+	#content .posts-navigation a,
+	#content .post-navigation a,
+	#content .wp-pagenavi a,
+	#content .wp-pagenavi span,
+	body.pen_has_woocommerce #page .product .button,
+	body.pen_has_woocommerce #page .wp-block-button__link,
+	body.pen_has_woocommerce #page .wc-backward,
+	body.pen_has_woocommerce #page .wc-forward {
+		white-space: normal;
+	}
+}

@@ -1,0 +1,190 @@
+h1#hp_title.pen_plugin_style:before {
+	content: '\f540';
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails {
+	max-width: 1080px;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails h2 {
+	border-bottom: 1px solid #ccc;
+	margin: 1.5rem 0 0;
+	padding: 0 0 1rem 1rem;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails p {
+	box-sizing: border-box;
+	padding: 0 1rem;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails ul,
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails li {
+	float: left;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper {
+	border: 1px solid transparent;
+	border-radius: 5px;
+	box-sizing: border-box;
+	height: 80px;
+	float: left;
+	height: 170px;
+	margin: 0 4px 10px;
+	padding: 2rem 1rem 1rem;
+	position: relative;
+	text-align: center;
+	transition: background .3s, border .3s, box-shadow .3s;
+	width: 100px;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper:hover {
+	background: rgba(0,0,0,0.05);
+	border: 1px solid #aaa;
+	box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper.pen_active {
+	background: rgba(0,155,255,0.1);
+	border: 1px solid #0085cc;
+	box-shadow: 0 3px 2px rgba(0,0,0,0.1);
+	padding: 1.5rem 1rem;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper.pen_active span.pen_thumbnail {
+	box-shadow: 0 0 10px #00adff;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper a.button,
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper span.button {
+	bottom: 30px;
+	left: 50%;
+	position: absolute;
+	transform: translateX(-50%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper.pen_active a.button,
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper.pen_active span.button {
+	bottom: 10px;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper.pen_active a.pen_button_preview,
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper.pen_active span.pen_button_preview {
+	bottom: 50px;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper span.pen_thumbnail {
+	background: #333;
+	border-radius: 5px;
+	box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+	box-sizing: border-box;
+	display: table;
+	float: left;
+	height: 54px;
+	line-height: 1.3;
+	margin: 0 5px;
+	padding: 0 !important;
+	position: relative;
+	text-align: center;
+	transition: box-shadow .3s;
+	width: 54px;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper > span > * {
+	display: table-cell;
+	vertical-align: middle;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails .pen_thumbnail_wrapper span.pen_thumbnail span {
+	border-radius: 5px;
+	color: #fff;
+	font-weight: normal;
+	text-shadow: 0 0 3px rgba(0,0,0,0.25), 0 0 7px rgba(0,0,0,0.25);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper span.pen_thumbnail span {
+	font-weight: bold;
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_1 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #00a9ff 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_2 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #fb7c00 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_3 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #00ac81 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_4 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #4b00f2 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_5 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #003078 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_6 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #7f447f 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_7 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #c00000 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_8 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #df00d2 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_9 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #8bcb00 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_10 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #ffd800 0%, #000000 100%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_11 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #00d3cf 33%, #000000 34%, #000000 74%, #255d5b 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_12 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #00b7ff 33%, #000000 34%, #000000 74%, #555555 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_13 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #f07c45 33%, #000000 34%, #000000 74%, #ffffff 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_14 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #3c97de 33%, #00050a 34%, #00050a 74%, #ffca00 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_15 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #ffed00 33%, #072b5f 34%, #072b5f 74%, #1a74cc 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_16 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #fff 33%, #005ce4 34%, #005ce4 74%, #fff 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_17 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #000 33%, #00a1ff 34%, #00a1ff 74%, #000 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_18 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #0b3d5f 33%, #ff5a10 34%, #ff5a10 74%, #fff 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_19 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #582841 33%, #cc2a49 34%, #cc2a49 74%, #ffd7df 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_color .pen_thumbnail_wrapper.pen_preset_20 span.pen_thumbnail span {
+	background: linear-gradient(125deg, #333 33%, #43008c 34%, #43008c 74%, #ffeb00 75%);
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper span.pen_thumbnail span {
+	background: linear-gradient(125deg, #000000 0%, #444444 100%);
+}
+/* Fonts here are not important enough to be loaded from Google Fonts, so if they are installed locally we are fine otherwise they will be seen on the front-end. */
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_1 span.pen_thumbnail span {
+	font-family: "Roboto Condensed Bold";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_2 span.pen_thumbnail span {
+	font-family: "Cinzel Bold";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_3 span.pen_thumbnail span {
+	font-family: "Exo2 Bold";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_4 span.pen_thumbnail span {
+	font-family: "Neris Black";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_5 span.pen_thumbnail span {
+	font-family: "Bellota Bold";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_6 span.pen_thumbnail span {
+	font-family: "Roboto Condensed Bold";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_7 span.pen_thumbnail span {
+	font-family: "Roboto Slab Regular";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_8 span.pen_thumbnail span {
+	font-family: "Sansation Bold";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_9 span.pen_thumbnail span {
+	font-family: "Enigmatic Bold";
+}
+#hp_admin .pen_plugin_page_style .pen_preset_thumbnails.pen_font .pen_thumbnail_wrapper.pen_preset_10 span.pen_thumbnail span {
+	font-family: "Lane Barrow Regular";
+}

@@ -1,0 +1,82 @@
+@media (prefers-color-scheme: dark) {
+	#page .pen_jump_menu .pen_menu_wrapper > strong span span.pen_only {
+		background: #7f7f7f;
+		border-radius: 100px;
+		box-shadow: 1px 1px 3px rgba(0,0,0,0.75) inset;
+		color: #fff;
+	}
+	#page .pen_jump_menu ul a {
+		background: rgba(240,240,240,0.95);
+		border-bottom: 1px solid rgba(0,0,0,0.1);
+		color: #04a !important;
+	}
+	#page .pen_jump_menu ul a:focus,
+	#page .pen_jump_menu ul a:hover,
+	#page .pen_jump_menu ul a:active {
+		background: rgba(0,70,170,0.95);
+	}
+	body.pen_dark_mode #page .pen_jump_menu ul a {
+		background: rgba(0,0,0,0.95);
+		border-bottom: 1px solid rgba(255,255,255,0.1);
+		color: #0087cc !important;
+	}
+	#page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed:before,
+	#page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed:before,
+	#page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed:after,
+	#page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed:after {
+		background: linear-gradient(0deg, rgba(255,255,255,0.75), rgba(255,255,255,0.95)) !important;
+	}
+	#page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed .pen_caption,
+	#page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed .pen_caption {
+		color: #333 !important;
+	}
+	body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed:before,
+	body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed:before,
+	body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed:after,
+	body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed:after {
+		background: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.95)) !important;
+	}
+	body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed .pen_caption,
+	body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed .pen_caption {
+		color: #eee !important;
+	}
+	#page .pen_jump_menu .pen_toggle:before {
+		background: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.05));
+		border: 2px solid #fff;
+		box-shadow: 0 0 5px rgba(0,0,0,0.5), 0 0 1px #000;
+		color: #fff;
+	}
+	#page .pen_jump_menu .pen_toggle:after {
+		border: 1px solid rgba(255,255,255,0.5);
+		box-shadow: 0 0 2px rgba(0,0,0,0.2), 0 0 2px rgba(0,0,0,0.2) inset;
+	}
+	body.pen_dark_mode #page .pen_jump_menu .pen_toggle:before {
+		border: 2px solid #000;
+	}
+	body.pen_dark_mode #page .pen_jump_menu .pen_toggle:after {
+		border: 1px solid rgba(0,0,0,0.5);
+		box-shadow: 0 0 2px rgba(0,0,0,0.2), 0 0 2px rgba(0,0,0,0.2) inset;
+	}
+}
+body.pen_dark_mode #page .pen_jump_menu ul a {
+	background: rgba(0,0,0,0.95);
+	border-bottom: 1px solid rgba(255,255,255,0.1);
+	color: #0087cc !important;
+}
+body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed:before,
+body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed:before,
+body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed:after,
+body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed:after {
+	background: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.95)) !important;
+}
+body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle.pen_collapsed .pen_caption,
+body.pen_dark_mode #page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle.pen_collapsed .pen_caption {
+	color: #eee !important;
+}
+body.pen_dark_mode #page .pen_jump_menu .pen_toggle:before {
+	border: 2px solid #000;
+}
+body.pen_dark_mode #page .pen_jump_menu .pen_toggle:after {
+	border: 1px solid rgba(0,0,0,0.5);
+	box-shadow: 0 0 2px rgba(0,0,0,0.2), 0 0 2px rgba(0,0,0,0.2) inset;
+}

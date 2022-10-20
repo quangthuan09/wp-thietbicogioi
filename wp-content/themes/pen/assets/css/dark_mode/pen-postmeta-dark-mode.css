@@ -1,0 +1,75 @@
+@media (prefers-color-scheme: dark) {
+	#pen_postmeta .pen_missing_feature {
+		background: #feeeee;
+	}
+	#pen_postmeta .pen_missing_feature:before {
+		color: #e00;
+	}
+	#pen_postmeta h3 {
+		background: #e0e0e0;
+		background: linear-gradient(125deg, #f0f0f0 0%, #e0e0e0 100%);
+	}
+	body.pen_dark_mode #pen_postmeta h3 {
+		background: #333;
+		background: linear-gradient(125deg, #333 0%, #000 100%);
+		color: #eee;
+	}
+	#pen_postmeta .pen_postmeta_container fieldset {
+		border-top: 1px solid #ddd;
+	}
+	#pen_postmeta .pen_postmeta_container fieldset legend {
+		background: #eee;
+		border: 1px solid #ddd;
+	}
+	#pen_postmeta .pen_postmeta_container fieldset legend:before {
+		color: #aaa;
+	}
+	body.pen_dark_mode #pen_postmeta .pen_postmeta_container fieldset {
+		border-top: 1px solid #ddd;
+	}
+	body.pen_dark_mode #pen_postmeta .pen_postmeta_container fieldset legend {
+		background: #eee;
+		border: 1px solid #ddd;
+	}
+	body.pen_dark_mode #pen_postmeta .pen_postmeta_container fieldset legend:before {
+		color: #aaa;
+	}
+	#pen_postmeta .pen_postmeta_wrapper {
+		background: rgba(255,255,255,0.75);
+		border: 1px solid #fff;
+	}
+	#pen_postmeta .pen_postmeta_wrapper.pen_postmeta_enable {
+		background: #dcf3df;
+		border: 1px solid #89d291;
+		color: #005d0c;
+	}
+	#pen_postmeta .pen_postmeta_wrapper.pen_postmeta_disable {
+		background: #ffe3e3;
+		border: 1px solid #e4aaaa;
+		color: #c30000;
+	}
+	#pen_meta_box .pen_only {
+		background: #7f7f7f;
+		box-shadow: 1px 1px 3px rgba(0,0,0,0.75) inset;
+		color: #fff;
+		text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	}
+	#pen_meta_box_footer {
+		border-top: 1px solid #ccc;
+	}
+}
+body.pen_dark_mode #pen_postmeta h3 {
+	background: #333;
+	background: linear-gradient(125deg, #333 0%, #000 100%);
+	color: #eee;
+}
+body.pen_dark_mode #pen_postmeta .pen_postmeta_container fieldset {
+	border-top: 1px solid #ddd;
+}
+body.pen_dark_mode #pen_postmeta .pen_postmeta_container fieldset legend {
+	background: #eee;
+	border: 1px solid #ddd;
+}
+body.pen_dark_mode #pen_postmeta .pen_postmeta_container fieldset legend:before {
+	color: #aaa;
+}

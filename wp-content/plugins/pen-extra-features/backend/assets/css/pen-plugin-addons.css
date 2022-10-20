@@ -1,0 +1,236 @@
+h1#hp_title.pen_plugin_addons:before {
+	content: '\f132';
+}
+#hp_admin .pen_plugin_page_addons {
+	cursor: default;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon {
+	background: #fefefe;
+	border: 1px solid #cacaca;
+	border-radius: 5px;
+	box-sizing: border-box;
+	margin: 1rem 0 0;
+	padding: 2rem;
+	position: relative;
+	float: left;
+	width: 100%;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_new {
+	background: #fafafa;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon .pen_plugin_label_new,
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon .pen_plugin_label_recommended,
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon .pen_plugin_label_special {
+	background: #fff;
+	border: 1px solid #025ad7;
+	border-bottom: 0 none;
+	border-radius: 5px 5px 0 0;
+	color: #025ad7;
+	font-weight: bold;
+	padding: 0.25rem 1rem;
+	position: absolute;
+	right: 2em;
+	bottom: 100%;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_new,
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_recommended,
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_special {
+	background: #fff;
+	border-color: #025ad7;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon h3 {
+	margin: 0;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon h3 img {
+	border-radius: 3px;
+	float: left;
+	margin: 0 1rem 0 0;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon h3 div {
+	display: table-cell;
+	height: 64px;
+	line-height: 1;
+	vertical-align: middle;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating {
+	display: block;
+	font-weight: normal;
+	font-size: 0.711em;
+	margin: 0.5rem 0 0;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating span {
+	margin: 0 0.5rem 0 0;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating:before,
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating span:before {
+	font-family: 'dashicons';
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating:before {
+	color: #ffa700;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating span:before {
+	color: #ccc;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating span:before {
+	content: "\f155\f155\f155\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_1:before {
+	content: "\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_1 span:before {
+	content: "\f155\f155\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_2:before {
+	content: "\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_2 span:before {
+	content: "\f155\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_3:before {
+	content: "\f155\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_3 span:before {
+	content: "\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_4:before {
+	content: "\f155\f155\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_4 span:before {
+	content: "\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_5:before {
+	content: "\f155\f155\f155\f155\f155";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_rating_5 span:before {
+	content: "";
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_button_purchase:after {
+	content: "\f345";
+	font-family: 'dashicons';
+	margin: 0 0 0 0.75rem;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon .pen_plugin_installed {
+	display: block;
+	font-weight: bold;
+	font-size: 0.711em;
+	margin: 0.25rem 0 0;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon .pen_plugin_installed:before {
+	content: "\f147";
+	font-family: 'dashicons';
+	font-weight: normal;
+	margin: 0 0.25rem 0 0;
+	vertical-align: bottom;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_button {
+	font-weight: bold;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon_features {
+	float: left;
+	line-height: 1.7;
+	width: 100%;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon_features,
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon_features li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon_features li {
+	color: #555;
+	font-weight: bold;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon_features li:before {
+	background: #0aa52c;
+	border-radius: 3px;
+	color: #fff;
+	content: "\f147";
+	font-family: 'dashicons';
+	font-weight: normal;
+	margin: 0 0.5rem 0 0;
+	vertical-align: bottom;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_installed .pen_plugin_addon_features li:before {
+	background: #aaa;
+}
+#hp_admin .pen_plugin_page_addons span.pen_plugin_price,
+#hp_admin .pen_plugin_page_addons span.pen_plugin_price_special {
+	font-weight: bold;
+	margin: 0 0.25rem;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_price_special .pen_plugin_price {
+	color: #e30000;
+	position: relative;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_price_special .pen_plugin_price:before {
+	border-top: 1px solid #e30000;
+	content: "";
+	height: 2px;
+	left: -10%;
+	position: absolute;
+	top: 10px;
+	transform: rotate(-10deg);
+	width: 120%;
+}
+#hp_admin .pen_plugin_page_addons span.pen_plugin_price_special {
+	font-weight: bold;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_special_end {
+	color: #f92c0c;
+	font-weight: bold;
+	margin: 0 0.5rem 0 0;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_button_purchase {
+	margin: 0 0 0 0.5rem;
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_addon.pen_plugin_installed .pen_plugin_button_purchase {
+	opacity: 0.5;
+}
+
+/* From Animate.CSS - http://daneden.me/animate */
+@keyframes heartBeat {
+	0% {
+		transform: scale(1);
+	}
+	14% {
+		transform: scale(1.5);
+	}
+	28% {
+		transform: scale(1);
+	}
+	42% {
+		transform: scale(1.5);
+	}
+	70% {
+		transform: scale(1);
+	}
+}
+#hp_admin .pen_plugin_page_addons .dashicons-heart {
+	animation-duration: 1.2s;
+	animation-iteration-count: infinite;
+	animation-fill-mode: both;
+	animation-name: heartBeat;
+	animation-timing-function: ease-in-out;
+}
+@keyframes flash {
+	from,
+	50%,
+	to {
+		opacity: 1;
+	}
+	25%,
+	75% {
+		opacity: 0;
+	}
+}
+#hp_admin .pen_plugin_page_addons .pen_plugin_button_purchase {
+	animation-delay: 4s;
+	animation-duration: 2s;
+	animation-iteration-count: 4;
+	animation-fill-mode: both;
+	animation-name: flash;
+	animation-timing-function: ease-in-out;
+}

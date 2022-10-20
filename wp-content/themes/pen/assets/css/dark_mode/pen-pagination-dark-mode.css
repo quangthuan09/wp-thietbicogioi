@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: dark) {
+	body.pen_drop_shadow.pen_list_tiles #content .comment-navigation a,
+	body.pen_drop_shadow.pen_list_tiles #content .posts-navigation a,
+	body.pen_drop_shadow.pen_list_tiles #content .post-navigation a,
+	body.pen_drop_shadow.pen_list_tiles #content .wp-pagenavi a,
+	body.pen_drop_shadow.pen_list_tiles #content .wp-pagenavi span,
+	body.pen_drop_shadow.pen_list_masonry #content .comment-navigation a,
+	body.pen_drop_shadow.pen_list_masonry #content .posts-navigation a,
+	body.pen_drop_shadow.pen_list_masonry #content .post-navigation a,
+	body.pen_drop_shadow.pen_list_masonry #content .wp-pagenavi a,
+	body.pen_drop_shadow.pen_list_masonry #content .wp-pagenavi span {
+		box-shadow: 0 0 15px rgba(0,0,0,0.2), 2px 2px 7px rgba(0,0,0,0.3);
+	}
+}

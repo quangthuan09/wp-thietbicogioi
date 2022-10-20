@@ -1,0 +1,212 @@
+@media (prefers-color-scheme: dark) {
+	#main article.pen_article,
+	body.pen_multiple #main li.pen_article,
+	#pen_content_next_previous,
+	body.pen_list_plain #pen_pager,
+	body.pen_list_plain.pen_has_woocommerce #page .woocommerce-pagination {
+		background: #fff;
+		color: #333;
+	}
+	body.pen_drop_shadow #main article.pen_article,
+	body.pen_drop_shadow.pen_multiple #main li.pen_article,
+	body.pen_drop_shadow #pen_content_next_previous,
+	body.pen_drop_shadow.pen_list_plain #pen_pager,
+	body.pen_drop_shadow.pen_list_plain.pen_has_woocommerce #page .woocommerce-pagination,
+	body.pen_drop_shadow #page .pen_options_overview.pen_visible {
+		box-shadow: 0 5px 10px rgba(0,0,0,0.25), 0 0 5px rgba(0,0,0,0.25);
+	}
+	body.pen_dark_mode #main article.pen_article,
+	body.pen_dark_mode.pen_multiple #main li.pen_article,
+	body.pen_dark_mode #pen_content_next_previous,
+	body.pen_dark_mode.pen_list_plain #pen_pager,
+	body.pen_dark_mode.pen_list_plain.pen_has_woocommerce #page .woocommerce-pagination {
+		background: #000;
+		color: #eee;
+	}
+	#main .pen_article header.pen_content_header {
+		background: #ddd;
+		background: linear-gradient(125deg, #fff 0%, #ddd 100%);
+	}
+	body.pen_drop_shadow #main header.pen_content_header.page-header .pen_content_title {
+		text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	}
+	body.pen_dark_mode #main .pen_article header.pen_content_header {
+		background: #333;
+		background: linear-gradient(125deg, #111 0%, #000 100%);
+	}
+	#main .pen_article header.pen_content_header a {
+		color: #000;
+	}
+	#main .pen_article header.pen_content_header a:focus,
+	#main .pen_article header.pen_content_header a:hover,
+	#main .pen_article header.pen_content_header a:active {
+		color: #0087cc;
+	}
+	body.pen_dark_mode #main .pen_article header.pen_content_header a {
+		color: #fff;
+	}
+	body.pen_dark_mode #main .pen_article header.pen_content_header a:focus,
+	body.pen_dark_mode #main .pen_article header.pen_content_header a:hover,
+	body.pen_dark_mode #main .pen_article header.pen_content_header a:active {
+		color: #00a9ff;
+	}
+	#main .pen_article .entry-meta.pen_separator_1 > span:after,
+	#main .pen_article .entry-meta.pen_separator_2 > span:after,
+	#main .pen_article .entry-meta.pen_separator_3 > span:after {
+		background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.9) 50%, rgba(0,0,0,0) 100%);
+	}
+	#main .pen_article .entry-meta.pen_separator_4 > span:after,
+	#main .pen_article .entry-meta.pen_separator_5 > span:after,
+	#main .pen_article .entry-meta.pen_separator_6 > span:after,
+	#main .pen_article .entry-meta.pen_separator_6 > span:before,
+	#main .pen_article .entry-meta.pen_separator_7 > span:after {
+		background: #000;
+	}
+	#main .pen_article .entry-meta.pen_separator_8 > span:after,
+	#main .pen_article .entry-meta.pen_separator_9 > span:after {
+		border: 3px solid #000;
+	}
+	#main .pen_article .entry-meta.pen_separator_10 > span:after {
+		color: #000;
+	}
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_1 > span:after,
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_2 > span:after,
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_3 > span:after {
+		background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0) 100%);
+	}
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_4 > span:after,
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_5 > span:after,
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_6 > span:after,
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_6 > span:before,
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_7 > span:after {
+		background: #fff;
+	}
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_8 > span:after,
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_9 > span:after {
+		border: 3px solid #eee;
+	}
+	body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_10 > span:after {
+		color: #eee;
+	}
+	#main ul.wp-block-social-links .wp-social-link a,
+	#main ul.wp-block-social-links .wp-social-link a:focus,
+	#main ul.wp-block-social-links .wp-social-link a:hover,
+	#main ul.wp-block-social-links .wp-social-link a:active {
+		color: #fff !important;
+	}
+	#page .pen_options_overview {
+		background: #fff;
+		color: #333 !important;
+	}
+	#page .pen_options_overview h3 {
+		background: linear-gradient(125deg, #555 0%, #aaa 100%);
+		color: #fff;
+	}
+	body.pen_dark_mode #page .pen_options_overview {
+		background: #333;
+		color: #eee !important;
+	}
+	body.pen_dark_mode #page .pen_options_overview h3 {
+		background: linear-gradient(125deg, #333 0%, #000 100%);
+		color: #eee;
+	}
+	body.pen_drop_shadow #page .pen_options_overview .pen_close:after,
+	body.pen_drop_shadow #page .pen_options_overview .pen_close:before {
+		text-shadow: 0 0 3px rgba(0,0,0,0.5);
+	}
+	#page .pen_options_overview table th,
+	#page .pen_options_overview table td {
+		background: #fff !important;
+		color: #333 !important;
+	}
+	#page .pen_options_overview table th {
+		background: #efefef !important;
+	}
+	body.pen_dark_mode #page .pen_options_overview table th,
+	body.pen_dark_mode #page .pen_options_overview table td {
+		background: #222 !important;
+		color: #eee !important;
+	}
+	body.pen_dark_mode #page .pen_options_overview table th {
+		background: #111 !important;
+	}
+	#main .post.format-audio > header:before,
+	#main .post.format-audio > header:after,
+	#main .post.format-aside > header:before,
+	#main .post.format-aside > header:after,
+	#main .post.format-gallery > header:before,
+	#main .post.format-gallery > header:after,
+	#main .post.format-image > header:before,
+	#main .post.format-image > header:after,
+	#main .post.format-video > header:before,
+	#main .post.format-video > header:after,
+	#main .post.format-quote > header:before,
+	#main .post.format-quote > header:after,
+	#main .post.format-link > header:before,
+	#main .post.format-link > header:after,
+	#main .post.format-status > header:before,
+	#main .post.format-status > header:after,
+	#main .status-draft > header:before,
+	#main .status-draft > header:after,
+	#main .post-password-required > header:before,
+	#main .post-password-required > header:after,
+	#main .post.sticky > header:before,
+	#main .post.sticky > header:after {
+		color: rgba(170,170,170,0.3);
+	}
+}
+body.pen_dark_mode #main article.pen_article,
+body.pen_dark_mode.pen_multiple #main li.pen_article,
+body.pen_dark_mode #pen_content_next_previous,
+body.pen_dark_mode.pen_list_plain #pen_pager,
+body.pen_dark_mode.pen_list_plain.pen_has_woocommerce #page .woocommerce-pagination	{
+	background: #000;
+	color: #eee;
+}
+body.pen_dark_mode #main .pen_article header.pen_content_header {
+	background: #333;
+	background: linear-gradient(125deg, #111 0%, #000 100%);
+}
+body.pen_dark_mode #main .pen_article header.pen_content_header a {
+	color: #fff;
+}
+body.pen_dark_mode #main .pen_article header.pen_content_header a:focus,
+body.pen_dark_mode #main .pen_article header.pen_content_header a:hover,
+body.pen_dark_mode #main .pen_article header.pen_content_header a:active {
+	color: #00a9ff;
+}
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_1 > span:after,
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_2 > span:after,
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_3 > span:after {
+	background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0) 100%);
+}
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_4 > span:after,
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_5 > span:after,
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_6 > span:after,
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_6 > span:before,
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_7 > span:after {
+	background: #fff;
+}
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_8 > span:after,
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_9 > span:after {
+	border: 3px solid #eee;
+}
+body.pen_dark_mode #main .pen_article .entry-meta.pen_separator_10 > span:after {
+	color: #eee;
+}
+body.pen_dark_mode #page .pen_options_overview {
+	background: #333;
+	color: #eee !important;
+}
+body.pen_dark_mode #page .pen_options_overview h3 {
+	background: linear-gradient(125deg, #333 0%, #000 100%);
+	color: #eee;
+}
+body.pen_dark_mode #page .pen_options_overview table th,
+body.pen_dark_mode #page .pen_options_overview table td {
+	background: #222 !important;
+	color: #eee !important;
+}
+body.pen_dark_mode #page .pen_options_overview table th {
+	background: #111 !important;
+}

@@ -1,0 +1,144 @@
+@media (prefers-color-scheme: dark) {
+	#pen_navigation.pen_not_transparent,
+	#pen_navigation_mobile {
+		background: #00a9ff;
+		background: linear-gradient(125deg, #00a9ff 0%,#093a89 100%);
+	}
+	#pen_navigation,
+	#pen_navigation_mobile {
+		color: #fff;
+	}
+	#pen_navigation ul#primary-menu ul,
+	#pen_navigation_mobile ul#primary-menu-mobile ul {
+		background: #004d98;
+		background: linear-gradient(125deg, #004d98 0%,#093a89 100%);
+	}
+	body.pen_drop_shadow #pen_navigation li.page_item_has_children > ul,
+	body.pen_drop_shadow #pen_navigation li.menu-item-has-children > ul {
+		box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+	}
+	body.pen_drop_shadow #pen_navigation ul#primary-menu a,
+	body.pen_drop_shadow #pen_navigation_mobile ul#primary-menu-mobile a,
+	body.pen_drop_shadow #pen_navigation_mobile .widget-area a {
+		text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	}
+	body.pen_dark_mode #pen_navigation,
+	body.pen_dark_mode #pen_navigation_mobile {
+		background: #333;
+		background: linear-gradient(125deg, #000 0%,#333 100%);
+		color: #fff;
+	}
+	body.pen_dark_mode #pen_navigation ul#primary-menu ul,
+	body.pen_dark_mode #pen_navigation_mobile ul#primary-menu-mobile ul {
+		background: #555;
+		background: linear-gradient(125deg, #111 0%,#000 100%);
+	}
+	#pen_navigation ul#primary-menu a,
+	#pen_navigation_mobile ul#primary-menu-mobile a,
+	#pen_navigation_mobile .widget-area a {
+		color: #c5e2ff;
+	}
+	#pen_navigation ul#primary-menu li.sfHover > a,
+	#pen_navigation ul#primary-menu a:focus,
+	#pen_navigation ul#primary-menu a:hover,
+	#pen_navigation ul#primary-menu a:active {
+		color: #fff;
+	}
+	#pen_navigation.pen_separator_1 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_2 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_3 ul#primary-menu > li:after {
+		background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(255,255,255,0.9) 50%, rgba(0,0,0,0) 100%);
+	}
+	#pen_navigation.pen_separator_submenu_1 ul#primary-menu li li:after,
+	#pen_navigation.pen_separator_submenu_2 ul#primary-menu li li:after,
+	#pen_navigation.pen_separator_submenu_3 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_1 ul#primary-menu-mobile li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_2 ul#primary-menu-mobile li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_3 ul#primary-menu-mobile li:after {
+		background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 25%, rgba(255,255,255,0) 100%);
+	}
+	#pen_navigation.pen_separator_submenu_2 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_2 ul#primary-menu-mobile li:after {
+		background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 100%);
+	}
+	#pen_navigation.pen_separator_submenu_3 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_3 ul#primary-menu-mobile li:after {
+		background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 75%, rgba(255,255,255,0) 100%);
+	}
+	#pen_navigation.pen_separator_4 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_submenu_4 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_4 ul#primary-menu-mobile li:after,
+	#pen_navigation.pen_separator_5 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_6 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_6 ul#primary-menu > li:before,
+	#pen_navigation.pen_separator_submenu_5 ul#primary-menu li li:after,
+	#pen_navigation.pen_separator_submenu_6 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_5 ul#primary-menu-mobile li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_6 ul#primary-menu-mobile li:after,
+	#pen_navigation.pen_separator_7 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_submenu_7 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_7 ul#primary-menu-mobile li:after {
+		background: #000;
+	}
+	#pen_navigation.pen_separator_8 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_submenu_8 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_8 ul#primary-menu-mobile li:after,
+	#pen_navigation.pen_separator_9 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_submenu_9 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_9 ul#primary-menu-mobile li:after {
+		border: 3px solid #000;
+	}
+	#pen_navigation.pen_separator_10 ul#primary-menu > li:after,
+	#pen_navigation.pen_separator_submenu_10 ul#primary-menu li li:after,
+	#pen_navigation_mobile nav.pen_separator_submenu_10 ul#primary-menu-mobile li:after {
+		color: #000;
+	}
+	#pen_navigation.pen_hover_1 ul#primary-menu > li.sfHover > a,
+	#pen_navigation.pen_hover_1 ul#primary-menu > li > a:focus,
+	#pen_navigation.pen_hover_1 ul#primary-menu > li > a:hover,
+	#pen_navigation.pen_hover_1 ul#primary-menu > li > a:active,
+	#pen_navigation.pen_hover_1 ul#primary-menu > li.current-menu-item > a,
+	#pen_navigation.pen_hover_2 ul#primary-menu > li.sfHover > a,
+	#pen_navigation.pen_hover_2 ul#primary-menu > li > a:focus,
+	#pen_navigation.pen_hover_2 ul#primary-menu > li > a:hover,
+	#pen_navigation.pen_hover_2 ul#primary-menu > li > a:active,
+	#pen_navigation.pen_hover_2 ul#primary-menu > li.current-menu-item > a {
+		background: rgba(0,0,0,0.2);
+	}
+	#pen_navigation.pen_hover_3 ul#primary-menu > li > a:after,
+	#pen_navigation.pen_hover_4 ul#primary-menu > li > a:after,
+	#pen_navigation.pen_hover_5 ul#primary-menu > li > a:after,
+	#pen_navigation.pen_hover_6 ul#primary-menu > li > a:after,
+	#pen_navigation.pen_hover_7 ul#primary-menu > li > a:after {
+		background: rgba(150,150,150,0.75);
+	}
+	#pen_navigation.pen_hover_8 ul#primary-menu > li > a:after {
+		border-top: 10px solid rgba(150,150,150,0.75);
+	}
+	#pen_navigation.pen_hover_9 ul#primary-menu > li > a:after {
+		border-bottom: 10px solid rgba(150,150,150,0.75);
+	}
+	#pen_navigation.pen_hover_10 ul#primary-menu > li > a:after {
+		background: #000;
+	}
+	#pen_navigation_mobile_toggle {
+		background: #000;
+	}
+	#pen_navigation_mobile_toggle span.pen_icon span {
+		background: #fff;
+	}
+}
+body.pen_dark_mode #pen_navigation.pen_not_transparent,
+body.pen_dark_mode #pen_navigation_mobile {
+	background: #333;
+	background: linear-gradient(125deg, #000 0%,#333 100%);
+}
+body.pen_dark_mode #pen_navigation,
+body.pen_dark_mode #pen_navigation_mobile {
+	color: #fff;
+}
+body.pen_dark_mode #pen_navigation ul#primary-menu ul,
+body.pen_dark_mode #pen_navigation_mobile ul#primary-menu-mobile ul {
+	background: #555;
+	background: linear-gradient(125deg, #333 0%,#555 100%);
+}
