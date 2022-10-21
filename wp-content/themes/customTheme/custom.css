@@ -208,3 +208,22 @@ a {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+.post-content p {
+  text-align: left;
+}
+.post-content {
+  text-align: center;
+  margin: 0 auto;
+  float: none;
+}
+.is-style-regular {
+  display: flex;
+  justify-content: center;
+}
+.is-style-regular > table {
+  border: 1px solid black;
+}
+.is-style-regular > table tbody tr td {
+  border: 1px solid black;
+  padding: 5px;
+}
